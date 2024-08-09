@@ -1,0 +1,13 @@
+.icons {
+  display: flex;
+  width: 15%;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+.icons_itens {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
